@@ -1,4 +1,4 @@
-# Based9Based version of ROOP, No NSFW Filter, No ERRORS ;)
+# Yet Another Version of ROOP, No NSFW Filter, No ERRORS ;)
 Google Colab Link: [Click here](https://colab.research.google.com/drive/1LEBvsI6w9uPTiE0XJyUNj30_m46l8bXY#scrollTo=g_rNnHaWyS4H)
 
 [Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
